@@ -20,3 +20,5 @@ Talk to your group, and I'll be walking around the room as we work through the e
 * Browse the [Docs](https://docs.python.org/3/index.html), probably in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
 * Google it and pick an answer from [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/)
 * Ask an AI tool (like [ChatGPT](https://chat.openai.com/) or [Bard](https://bard.google.com/)) to explain a block of code to you
+
+Last, if you're getting an error, read the full message for any clues.  
