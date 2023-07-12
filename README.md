@@ -15,6 +15,6 @@ A few introductory files will populate automatically once you click on the Jupyt
 At some point, you will come across something that doesn't quite make sense, and/or you will need to look something up. Talk through problems with your group, and I'll be walking around as we work through the exercises together. The following options may also be of use:
 * The `help()` function pulls up the manual
 * * For example, `help(print)` displays a defintion of the function `print()`
-* [Python Docs](https://docs.python.org/3/index.html), in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
+* Browse the [Docs](https://docs.python.org/3/index.html), in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
 * Google it and pick an answer from [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/)
 * Ask an AI tool to explain a block of code to you, like [ChatGPT](https://chat.openai.com/) or [Bard](https://bard.google.com/)
