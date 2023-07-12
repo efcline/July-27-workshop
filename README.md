@@ -16,4 +16,5 @@ At some point, you will come across something that doesn't quite make sense, and
 * The `help()` function pulls up the manual
 * * For example, `help(print)` displays a defintion of the function `print()`
 * [Python Docs](https://docs.python.org/3/index.html), in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
-* Google it and pick an answer from [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/) 
+* Google it and pick an answer from [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/)
+* Ask an AI tool to explain a block of code to you, like [ChatGPT](https://chat.openai.com/) or [Bard](https://bard.google.com/)
