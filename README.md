@@ -14,11 +14,11 @@ A few introductory files will populate automatically once you click on the Jupyt
 # Finding Help
 At some point, you will come across something that doesn't quite make sense, and/or you will need to look something up. 
 
-Talk to your group, and I'll be walking around the room as we work through the exercises together. You may also want to:
+Talk to your group, and I'll be walking around the room as we work through the exercises together. Other options include:
+* Google it. I like answers from things like [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/), but there are lots of great sites to choose from
+* Browse the [Docs](https://docs.python.org/3/index.html), probably in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
 * Call the `help()` function, which pulls up the manual
 * * For example, `help(print)` displays a defintion of the function `print()`
-* Browse the [Docs](https://docs.python.org/3/index.html), probably in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
-* Google it and pick an answer from [Stack Exchange](https://stackexchange.com/)/[Stack Overflow](https://stackoverflow.com/)
 * Ask an AI tool (like [ChatGPT](https://chat.openai.com/) or [Bard](https://bard.google.com/)) to explain a block of code to you
 
 Last, if you're getting an error, read the full message for any clues.  
