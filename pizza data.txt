@@ -1,0 +1,4 @@
+pineapple, ham, cheese
+pesto, sliced tomatoes, mozzarella
+pepperoni, black olives, cheese
+green peppers, mushrooms, cheese
