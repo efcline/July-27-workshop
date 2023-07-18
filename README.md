@@ -20,5 +20,4 @@ Talk to your group, and I'll be walking around the room as we work through the e
 - Call the `help()` function, which pulls up the manual
   - For example, `help(print)` displays a defintion of the function `print()`
 - Ask an AI tool (like [ChatGPT](https://chat.openai.com/) or [Bard](https://bard.google.com/)) to explain a block of code to you
-
-Last, if you're getting an error, read the full message for any clues.  
+- Getting an error? Read the full message for any clues.
