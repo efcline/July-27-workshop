@@ -12,7 +12,7 @@ Pick a group, run the Notebook, and we'll get started!
 A few introductory files will populate automatically once you click on the Jupyter link. You can explore these if desired. To complete the exercises on the board, go to _File_ -> _New_ -> _New Notebook_. We are using the _Python (Pyodide)_ kernel. 
 
 # Finding Help
-At some point, you will come across something that doesn't quite make sense, and/or you will need to look something up. We will be looking things up as part of some of our exercises. Options include:
+At some point, you will come across something that doesn't quite make sense, and/or you will need to look something up. In fact, some of our workshop exercises will require you to look things up. Options include:
 - Google it - I recommend results from places like [Stack Overflow](https://stackoverflow.com/)
 - Browse the [Docs](https://docs.python.org/3/index.html), probably in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
 - Call the `help()` function, which pulls up the manual
