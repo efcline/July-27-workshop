@@ -4,14 +4,14 @@ This _brief_ workshop is intended to encourage others to think about and play wi
 
 Everyone brings something unique to this conversation, whether newcomer or pro. We are here to learn from one another.
 
-# Getting Started
+## Getting Started
 We will use [Jupyter Notebooks](https://jupyter.org/try-jupyter/lab?path=notebooks%2FIntro.ipynb) to explore the examples on the board. 
 
 Pick a group, run the Notebook, and we'll get started!
 
 A few introductory files will populate automatically once you click on the Jupyter link. You can explore these if desired. To complete the exercises on the board, go to _File_ -> _New_ -> _New Notebook_. We are using the _Python (Pyodide)_ kernel. 
 
-# Finding Help
+## Finding Help
 At some point, you will come across something that doesn't quite make sense, and/or you will need to look something up. In fact, some of our workshop exercises will require you to look things up. Options include:
 - Google it - I recommend results from places like [Stack Overflow](https://stackoverflow.com/)
 - Browse the [Docs](https://docs.python.org/3/index.html), probably in particular [Built-In Functions](https://docs.python.org/3/library/functions.html)
