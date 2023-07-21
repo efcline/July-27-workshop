@@ -1,6 +1,6 @@
 # Data Skills Workshop
 
-This _brief_ workshop is intended to encourage others to think about and play with data, using Python as a facilitation tool. This workshop is not meant to create experts, represent the QEP/Data Nexus, or serve as a rulebook. 
+This _brief_ workshop is intended to encourage others to think about and play with data, using [Python](https://docs.python.org/3/tutorial/index.html) as a facilitation tool. This workshop is not meant to create experts, represent the QEP/Data Nexus, or serve as a rulebook. 
 
 Everyone brings something unique to this conversation, whether newcomer or pro. We are here to learn from one another.
 
